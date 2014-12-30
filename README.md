@@ -1,4 +1,1 @@
-newrep
-======
-
-This is the testing repositary for GIT
+I have made the changes and upload from my computer
